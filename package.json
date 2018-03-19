@@ -1,0 +1,12 @@
+{
+  "name": "panopticon",
+  "version": "1.0.0",
+  "description": "stock checking system by serverless",
+  "scripts": {},
+  "author": "miyachik",
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
