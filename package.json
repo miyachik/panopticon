@@ -6,7 +6,8 @@
   "author": "miyachik",
   "private": true,
   "dependencies": {
+    "jsdom": "^11.6.2",
+    "request": "^2.85.0"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
